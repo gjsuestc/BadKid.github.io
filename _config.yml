@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Jiashi Gao
-  Work: Research assistant in SCAI, SUSTech, China
+  Work: RA in SCAI, SUSTech, China
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
